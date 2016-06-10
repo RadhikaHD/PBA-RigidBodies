@@ -1,0 +1,21 @@
+Name of the student: Radhika Dhaipule
+Name of the course:
+CPSC 8170 Physically Based Animation
+Name of the professor: Dr. Donald House
+
+Homework Assignment 5: Rigid Body Simulations
+
+Description:
+Press ‘R’ to restart the simulation
+I have used the camera class to implement the camera functions for this project. I fixed a couple of other changes you had mentioned in the feedback for the previous projects. There is no collision implemented in this project.
+
+Compilation:
+make
+
+Running the code:
+./RigidBodies
+
+
+
+
+
